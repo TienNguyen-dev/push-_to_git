@@ -1,0 +1,9 @@
+ĐẨY DỰ ÁN LÊN REPO CÓ SẴN TRÊN GITHUB
+
+1. tạo 1 repository (folder)
+2. clone project: git clone link_your_repo
+3. viết code:
+	git status "kiểm tra trạng thái file"
+	git add . "thêm file"
+	git commit -m "message" (tạo nội dung commit)
+	git push origin main
